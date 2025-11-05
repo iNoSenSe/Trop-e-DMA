@@ -1,0 +1,301 @@
+{
+  "entries": [
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "ANTONIN REGNIER",
+      "niveau": 3,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "ERWAN IMHOFF",
+      "niveau": 3,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "ADAM ZWICKERT",
+      "niveau": 3,
+      "distinction": "3ème prix plaquette d'or",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "EMILE BREITNER",
+      "niveau": 3,
+      "distinction": "4ème prix plaquette d'or",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "DIEGO CHOQUET",
+      "niveau": 3,
+      "distinction": "1er prix médaille d'or",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "ADRIEN GUSTIAUX",
+      "niveau": 4,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "THEO BONNAT",
+      "niveau": 4,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "ADRIEN CHATEL",
+      "niveau": 4,
+      "distinction": "3ème prix plaquette d'or",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "SLOAN MIOTTO",
+      "niveau": 4,
+      "distinction": "4ème prix plaquette d'or",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "PAUL BAROU",
+      "niveau": 4,
+      "distinction": "1er prix médaille d'or",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "ROBIN HAESSIG",
+      "niveau": 4,
+      "distinction": "médaille de finaliste",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "AMBRE LEMOEL",
+      "niveau": 4,
+      "distinction": "médaille de finaliste",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "ARMAND MARX",
+      "niveau": 4,
+      "distinction": "médaille de finaliste",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "CHARLY GARNIER",
+      "niveau": 4,
+      "distinction": "médaille de finaliste",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "CLEMENT HECK",
+      "niveau": 5,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "YUMA LEMARRE-REY",
+      "niveau": 5,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "CAMILLE THUET",
+      "niveau": 5,
+      "distinction": "3ème prix plaquette d'or",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "AURELIEN COULIOU",
+      "niveau": 5,
+      "distinction": "4ème prix plaquette d'or",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "MONICA LE JULE FERNANDES",
+      "niveau": 5,
+      "distinction": "1er prix médaille d'or",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "ROMAIN BRAEUNER",
+      "niveau": 5,
+      "distinction": "médaille de finaliste",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "ANTOINE SERMET-MAGDELAIN",
+      "niveau": 5,
+      "distinction": "médaille de finaliste",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "HUGO WIRTH",
+      "niveau": 6,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "PAUL MALLERIN",
+      "niveau": 7,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "MARTIN GRANDMOUGIN",
+      "niveau": 7,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "LAURA PERRET",
+      "niveau": 7,
+      "distinction": "3ème prix plaquette d'or",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "NOAH TETOHU",
+      "niveau": 7,
+      "distinction": "4ème prix plaquette d'or",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "GABRIEL ANTOINE",
+      "niveau": 7,
+      "distinction": "1er prix médaille d'or",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "SOPHIE FRIEH",
+      "niveau": 7,
+      "distinction": "médaille de finaliste",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "HUGO BRINGIA",
+      "niveau": 8,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "AGATHE ROSIER",
+      "niveau": 8,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "GASPARD SEITE",
+      "niveau": 9,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "THIERRY ROBIN",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "SAMUEL GRADEL",
+      "niveau": 11,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2025,
+      "ville": "Finales Nationales Ensisheim",
+      "candidat": "SVEN MEYER",
+      "niveau": 11,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    }
+  ]
+}
