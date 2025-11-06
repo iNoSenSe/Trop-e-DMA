@@ -14,26 +14,22 @@
 
 /* ===== Base ===== */
 *{ box-sizing:border-box }
-html, body {
-  margin: 0;
-  color: var(--fg);
-  font: 16px/1.5 'Audiowide', sans-serif;
-  background: #120707;
-  min-height: 100vh;
+
+html, body{
+  margin:0;
+  color:var(--fg);
+  font:16px/1.5 'Audiowide', sans-serif;
+  background: #120707 url('scene2024.jpeg') center top / cover no-repeat;
+  background-attachment: fixed;  /* desktop */
+  min-height:100vh;
 }
 
-/* fond d'écran plein écran, qui ne saute pas sur mobile */
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  background: url('scene2024.jpeg') center top / cover no-repeat;
-  z-index: -1;
-}
-
-/* compatibilité iOS/Android */
-@supports (-webkit-touch-callout: none) {
-  body::before { position: fixed; }
+/* Mobile: pas de fixed et hauteur réelle de l’écran */
+@media (max-width:600px){
+  html, body{
+    background-attachment: scroll;
+    min-height:100dvh;
+  }
 }
 
 
@@ -279,22 +275,5 @@ button,.btn,.link{
   }
 }
 
-.table thead th{ z-index:1; }          /* reste au-dessus des lignes */
-@media (max-width:600px){
-  /* si certaines colonnes peuvent aller à la ligne */
-  td:nth-child(1), td:nth-child(2){ white-space: normal; }
-  /* évite les saccades du fond sur mobile */
-  html,body{ background-attachment: scroll; }
-}
-/* Fallback sombre si l'image ne peint pas une zone */
-html, body { background-color: #120707; }
-
-/* Sur mobile: pas de fixed, et fond couvrant tout l'écran */
-@media (max-width: 600px){
-  html, body{
-    background-attachment: scroll;
-    min-height: 100vh;
-  }
-}
 
 
