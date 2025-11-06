@@ -14,16 +14,28 @@
 
 /* ===== Base ===== */
 *{ box-sizing:border-box }
-html,body{
-  margin:0;
-  color:var(--fg);
-  font:16px/1.5 'Audiowide', sans-serif;
-  background-image:url('scene2024.jpeg');
-  background-size:cover;
-  background-repeat:no-repeat;
-  background-attachment:fixed;
-  background-position:center;
+html, body {
+  margin: 0;
+  color: var(--fg);
+  font: 16px/1.5 'Audiowide', sans-serif;
+  background: #120707;
+  min-height: 100vh;
 }
+
+/* fond d'écran plein écran, qui ne saute pas sur mobile */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: url('scene2024.jpeg') center top / cover no-repeat;
+  z-index: -1;
+}
+
+/* compatibilité iOS/Android */
+@supports (-webkit-touch-callout: none) {
+  body::before { position: fixed; }
+}
+
 
 /* ===== Header ===== */
 .header{
