@@ -19,7 +19,7 @@ html, body {
   margin: 0;
   color: var(--fg);
   font: 16px/1.5 'Audiowide', sans-serif;
-  background: #120707 url('scene2024.jpeg') center 80% / cover no-repeat fixed;
+  background: #120707 url('scene2024.jpeg') center 70% / cover no-repeat fixed;
   min-height: 100vh;
 }
 
