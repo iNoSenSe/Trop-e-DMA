@@ -23,10 +23,9 @@ html, body {
   min-height: 100vh;
 }
 
-@media (max-width: 768px) {
-  html, body {
-    background-position: center 80%;
-    background-attachment: scroll;
+@media (max-width: 600px) {
+  body::before {
+    background-position: center 65%; /* décale un peu plus bas sur téléphone */
   }
 }
 
