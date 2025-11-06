@@ -198,15 +198,17 @@ const rows = (DATA.entries || []).filter(x =>
     });
 
   return `
-    <div class="breadcrumb">Palmarès › ${STATE.year} › ${isFinale ? FINALE_LABEL : STATE.place}</div>
+  <div class="breadcrumb">Palmarès › ${STATE.year} › ${isFinale ? FINALE_LABEL : STATE.place}</div>
+  <div class="table-wrap">
     <table class="table">
       <thead>${head}</thead>
       <tbody>${body}</tbody>
     </table>
-    <div class="btns">
-      <button class="btn" data-go="places">← Retour</button>
-    </div>
-  `;
+  </div>
+  <div class="btns">
+    <button class="btn" data-go="places">← Retour</button>
+  </div>
+`;
 }
 
 
