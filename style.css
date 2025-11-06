@@ -274,5 +274,15 @@ button,.btn,.link{
   /* évite les saccades du fond sur mobile */
   html,body{ background-attachment: scroll; }
 }
+/* Fallback sombre si l'image ne peint pas une zone */
+html, body { background-color: #120707; }
+
+/* Sur mobile: pas de fixed, et fond couvrant tout l'écran */
+@media (max-width: 600px){
+  html, body{
+    background-attachment: scroll;
+    min-height: 100vh;
+  }
+}
 
 
