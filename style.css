@@ -20,7 +20,7 @@ html, body{
   color:var(--fg);
   font:16px/1.5 'Audiowide', sans-serif;
   background: #120707 url('scene2024.jpeg') center top / cover no-repeat;
-  background-attachment: fixed;  /* desktop */
+  background: #120707 url('scene2024.jpeg') center 85% / cover no-repeat;
   min-height:100vh;
 }
 
