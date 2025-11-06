@@ -15,20 +15,19 @@
 /* ===== Base ===== */
 *{ box-sizing:border-box }
 
-html, body{
-  margin:0;
-  color:var(--fg);
-  font:16px/1.5 'Audiowide', sans-serif;
-  background: #120707 url('scene2024.jpeg') center top / cover no-repeat;
-  background: #120707 url('scene2024.jpeg') center 95% / cover no-repeat;
-  min-height:100vh;
+html, body {
+  margin: 0;
+  color: var(--fg);
+  font: 16px/1.5 'Audiowide', sans-serif;
+  background: #120707 url('scene2024.jpeg') center 110% / cover no-repeat fixed;
+  min-height: 100vh;
 }
 
-/* Mobile: pas de fixed et hauteur réelle de l’écran */
-@media (max-width:600px){
-  html, body{
+/* Mobile : image légèrement plus basse et sans effet fixed */
+@media (max-width: 768px) {
+  html, body {
+    background-position: center 120%;
     background-attachment: scroll;
-    min-height:100dvh;
   }
 }
 
