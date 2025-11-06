@@ -235,3 +235,44 @@ button,.btn,.link{
   .brand .logo{ height:72px; }
 }
 
+/* Conteneur scrollable pour mobile */
+.table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+
+
+/* Le tableau ne dépasse pas l'écran */
+.table {
+  width: 100%;
+  min-width: 720px;            /* mets 600–900px selon tes colonnes */
+  border-collapse: collapse;
+}
+
+/* Entête collante pour garder les titres visibles */
+.table thead th {
+  position: sticky;
+  top: 0;
+  background: rgba(40,0,0,0.85);
+  backdrop-filter: blur(4px);
+}
+
+/* Ajustements mobiles */
+@media (max-width: 600px){
+  .table th, .table td { 
+    padding: 8px 10px;
+    font-size: 0.9rem;
+    white-space: nowrap;      /* tu peux passer à normal si tu veux que ça aille à la ligne */
+  }
+}
+
+.table thead th{ z-index:1; }          /* reste au-dessus des lignes */
+@media (max-width:600px){
+  /* si certaines colonnes peuvent aller à la ligne */
+  td:nth-child(1), td:nth-child(2){ white-space: normal; }
+  /* évite les saccades du fond sur mobile */
+  html,body{ background-attachment: scroll; }
+}
+
+
