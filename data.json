@@ -1,6 +1,339 @@
 {
   "entries": [
     {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "CYPRIEN PELLIER-CUIT",
+      "niveau": 3,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "MARTIN PIQUEREZ",
+      "niveau": 3,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "CARLOS TERRONES VEGA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "AMBRE LE MOEL",
+      "niveau": 3,
+      "distinction": "3ème prix plaquette d'or",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "LUCAS GASCARD",
+      "niveau": 3,
+      "distinction": "4ème prix plaquette d'or",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "THEO BONNAT",
+      "niveau": 3,
+      "distinction": "1er prix médaille d'or",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "CHARLY GARNIER",
+      "niveau": 3,
+      "distinction": "médaille de finaliste",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "AUGUSTIN BACH",
+      "niveau": 3,
+      "distinction": "médaille de finaliste",
+      "professeur": "CARLOS TERRONES VEGA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "CAMILLE THUET",
+      "niveau": 4,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "NATHAN HEN",
+      "niveau": 4,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "CHARLIE MULETA",
+      "niveau": 4,
+      "distinction": "3ème prix plaquette d'or",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "THIMOTHEE NGUYEN",
+      "niveau": 4,
+      "distinction": "4ème prix plaquette d'or",
+      "professeur": "STEPHAN JANY",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "GREGOIRE BLANC",
+      "niveau": 4,
+      "distinction": "1er prix médaille d'or",
+      "professeur": "CARLOS TERRONES VEGA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "HUGO MONCHICOURT",
+      "niveau": 4,
+      "distinction": "médaille de finaliste",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "SYLVESTRE COULEE-ECOCHARD",
+      "niveau": 4,
+      "distinction": "médaille de finaliste",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "EMMA DUPUIS",
+      "niveau": 4,
+      "distinction": "médaille de finaliste",
+      "professeur": "CARLOS TERRONES VEGA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "LEO MARIN",
+      "niveau": 4,
+      "distinction": "médaille de finaliste",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "OSCAR DUPLAIX",
+      "niveau": 5,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "CARLOS TERRONES VEGA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "ROMANE LABAT",
+      "niveau": 5,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "ELI LEBARREAU",
+      "niveau": 5,
+      "distinction": "3ème prix plaquette d'or",
+      "professeur": "CARLOS TERRONES VEGA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "YUMA LEMARRE-REY",
+      "niveau": 5,
+      "distinction": "4ème prix plaquette d'or",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "LIAM JOFFRES",
+      "niveau": 5,
+      "distinction": "1er prix médaille d'or",
+      "professeur": "CARLOS TERRONES VEGA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "PAUL FINDEISEN",
+      "niveau": 5,
+      "distinction": "médaille de finaliste",
+      "professeur": "CARLOS TERRONES VEGA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "CLEMENT HECK",
+      "niveau": 5,
+      "distinction": "médaille de finaliste",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "ANDREA FASSINO VACCARO",
+      "niveau": 5,
+      "distinction": "médaille de finaliste",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "LIONEL BAYARD",
+      "niveau": 5,
+      "distinction": "médaille de finaliste",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "ANTOINE SERMET-MAGDELAIN",
+      "niveau": 5,
+      "distinction": "médaille de finaliste",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "LAURA PERRET",
+      "niveau": 6,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "ELYAS GATET",
+      "niveau": 6,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "CARLOS TERRONES VEGA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "NOAH TETOHU",
+      "niveau": 6,
+      "distinction": "3ème prix plaquette d'or",
+      "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "MAIRA ESPOSITO",
+      "niveau": 6,
+      "distinction": "4ème prix plaquette d'or",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "JULIEN ALLARD",
+      "niveau": 6,
+      "distinction": "1er prix médaille d'or",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "AGATHE ROSIER",
+      "niveau": 7,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "LENESTOUR NINO",
+      "niveau": 7,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "CARLOS TERRONES VEGA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "FRANCOISE CRESCIONE",
+      "niveau": 7,
+      "distinction": "3ème prix plaquette d'or",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "GASPARD SEITE",
+      "niveau": 8,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "THIERRY ROBIN",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "SAMUEL GRADEL",
+      "niveau": 10,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2024,
+      "ville": "Finales Nationales Limoges",
+      "candidat": "LEO REY",
+      "niveau": 12,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
       "annee": 2025,
       "ville": "Finales Nationales Ensisheim",
       "candidat": "ANTONIN REGNIER",
@@ -295,6 +628,132 @@
       "niveau": 11,
       "distinction": "2ème prix plaquette d'or",
       "professeur": "JASMIN ZORANIC",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Charnècles",
+      "candidat": "AIDEN STAINER",
+      "niveau": 1,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Charnècles",
+      "candidat": "ROMEO BELLON",
+      "niveau": 2,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Charnècles",
+      "candidat": "ARTHUR MARTINEZ",
+      "niveau": 3,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Charnècles",
+      "candidat": "ARMEL BIENACEL",
+      "niveau": 3,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Charnècles",
+      "candidat": "LUCAS GASCARD",
+      "niveau": 5,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Charnècles",
+      "candidat": "ADRIENCHATEL",
+      "niveau": 5,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Charnècles",
+      "candidat": "THEO BONNAT",
+      "niveau": 5,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Charnècles",
+      "candidat": "PAUL BAROU",
+      "niveau": 5,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Charnècles",
+      "candidat": "NILS BIZET",
+      "niveau": 6,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Charnècles",
+      "candidat": "LOUIS TROSSAT",
+      "niveau": 7,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Charnècles",
+      "candidat": "ANDREA FASSINO VACCARO",
+      "niveau": 7,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Charnècles",
+      "candidat": "PAUL MALLERIN",
+      "niveau": 8,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Charnècles",
+      "candidat": "FRANCOISE CRESCIONE",
+      "niveau": 9,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "LILLO FARRUGGIA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Charnècles",
+      "candidat": "ANGELO OUDOT",
+      "niveau": 9,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "LILLO FARRUGGIA",
       "finale": false
     }
   ]

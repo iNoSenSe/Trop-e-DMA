@@ -3,7 +3,7 @@ import json
 import re
 import unicodedata
 
-EXCEL_FILE = "palmares.xlsx"  # ton fichier
+EXCEL_FILE = "Palmares.xlsx"  # ton fichier
 
 # mots-clés qui indiquent la finale, peu importe l'orthographe/accents
 FINAL_TOKENS = {"finale", "finales", "finale nationale", "finales nationales"}
