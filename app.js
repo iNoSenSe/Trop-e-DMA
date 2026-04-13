@@ -7,6 +7,8 @@ let STATE = { view: 'home', year: null, place: null }; // place = ville OU "Fina
 
 // === Libellés complets des niveaux ===
 const LEVEL_NAMES = {
+  1: "Niveau 1 - Débutant 1",
+  2: "Niveau 2 - Débutant 2",
   3: "Niveau 3 - Initiation 1",
   4: "Niveau 4 - Initiation 2",
   5: "Niveau 5 - Préparatoire 1",
@@ -141,7 +143,7 @@ function renderPlaces() {
       ${boutonsVilles}
     </div>
     <div class="btns">
-      <button class="btn" data-go="years">← Retour</button>
+      <button class="btn" data-go="years">Retour</button>
     </div>
   `;
 }
