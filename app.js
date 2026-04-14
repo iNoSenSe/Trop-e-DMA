@@ -170,15 +170,10 @@ const rows = (DATA.entries || []).filter(x =>
 
   rows
   .sort((a, b) =>
-    (levelNum(a.niveau) - levelNum(b.niveau)) ||                 // niveau croissant
-    (distScore(b.distinction) - distScore(a.distinction)) ||      // distinction décroissant
-    (
-      // si deux "médaille de finaliste", garder l'ordre Excel (ordre du JSON)
-      isFinaliste(a.distinction) && isFinaliste(b.distinction)
-        ? (a.__idx - b.__idx)
-        : String(a.candidat || '').localeCompare(String(b.candidat || ''))
-    )
-  )
+  (levelNum(a.niveau) - levelNum(b.niveau)) ||
+  (distScore(b.distinction) - distScore(a.distinction)) ||
+  ((a.__idx ?? 999999) - (b.__idx ?? 999999))
+)
   .forEach(r => {
 
       // si le niveau change, on ajoute une ligne de titre
@@ -208,7 +203,7 @@ const rows = (DATA.entries || []).filter(x =>
     </table>
   </div>
   <div class="btns">
-    <button class="btn" data-go="places">← Retour</button>
+    <button class="btn" data-go="places">Retour</button>
   </div>
 `;
 }
