@@ -755,6 +755,141 @@
       "distinction": "2ème prix plaquette d'or",
       "professeur": "LILLO FARRUGGIA",
       "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Magland",
+      "candidat": "EVA OMNES",
+      "niveau": 1,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Magland",
+      "candidat": "MARCUS DA RIVA",
+      "niveau": 2,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Magland",
+      "candidat": "CHARLY BIBOLLET RUCHE",
+      "niveau": 3,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Magland",
+      "candidat": "LOIC PERRET",
+      "niveau": 3,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Magland",
+      "candidat": "AMBRE LE MOEL",
+      "niveau": 3,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Magland",
+      "candidat": "LOLA GISCLON",
+      "niveau": 3,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Magland",
+      "candidat": "MAEL BRANGER",
+      "niveau": 3,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Magland",
+      "candidat": "ELIOT BIBOLLET RUCHE",
+      "niveau": 4,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Magland",
+      "candidat": "THEO GISCLON",
+      "niveau": 4,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Magland",
+      "candidat": "ROBIN KOLODIE",
+      "niveau": 4,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Magland",
+      "candidat": "MARCEAU CHOUTEAU",
+      "niveau": 5,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Magland",
+      "candidat": "BENJAMIN CHAUDET",
+      "niveau": 5,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Magland",
+      "candidat": "YUMA LEMARRE REY",
+      "niveau": 6,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Magland",
+      "candidat": "LAURA PERRET",
+      "niveau": 7,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "REMI PINA",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Magland",
+      "candidat": "SAMUEL GRADEL",
+      "niveau": 12,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "REMI PINA",
+      "finale": false
     }
   ]
 }
