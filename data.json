@@ -890,6 +890,231 @@
       "distinction": "1er prix trophée DMA",
       "professeur": "REMI PINA",
       "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "GAUVAIN BLANCHARD",
+      "niveau": 1,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "AIDA CASSEL",
+      "niveau": 1,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "CAMILLE CITTADINI",
+      "niveau": 1,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "MATHEO VALLARINO",
+      "niveau": 1,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "NATHAN BERVOET",
+      "niveau": 1,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "BAPTISTE ASTIER",
+      "niveau": 2,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "AUXENCE CALLOT",
+      "niveau": 2,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "NOEMIE GRANDGUILLOT",
+      "niveau": 2,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "GHJUVAN CASALTA",
+      "niveau": 3,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "GASPARD TALLON",
+      "niveau": 3,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "MAXIME BONNARD",
+      "niveau": 3,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "DANIEL MAURIN",
+      "niveau": 3,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "NAIS OBEA MANON",
+      "niveau": 3,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "RAOUL BARBET",
+      "niveau": 4,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "ERWANN AILLAUD",
+      "niveau": 4,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "ELYNA LEDROIT",
+      "niveau": 4,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "CHARLY GARNIER",
+      "niveau": 4,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "ROMAIN SERRE DUPUY",
+      "niveau": 4,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "MILAN BLANC",
+      "niveau": 5,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "ULYSSE VALDIVIA",
+      "niveau": 5,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "ANTHONY SGUEGLIA",
+      "niveau": 6,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "IMANOL AUDU",
+      "niveau": 7,
+      "distinction": "2ème prix plaquette d'or",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "GABRIEL ANTOINE",
+      "niveau": 8,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "RASMUS NOMMENSEN",
+      "niveau": 8,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
+    },
+    {
+      "annee": 2026,
+      "ville": "Gap",
+      "candidat": "JONAS MURATI",
+      "niveau": 11,
+      "distinction": "1er prix trophée DMA",
+      "professeur": "CHRISTOPHE GARNIER",
+      "finale": false
     }
   ]
 }
